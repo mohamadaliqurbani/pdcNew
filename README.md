@@ -7,14 +7,14 @@
 
  - first configure the env file credentials like database name, database username database password
  - second for sending e-mail set the following keys in env file like this
- - ** MAIL_MAILER=smtp **
- - ** MAIL_HOST=smtp.gmail.com **
- - ** MAIL_PORT=587 **
- - ** MAIL_USERNAME="your gamil " **
- - ** MAIL_PASSWORD="App passwords=> which you have create via your gamil account" **
- - ** MAIL_ENCRYPTION=tls **
- - ** MAIL_FROM_ADDRESS="email address" **
- - ** MAIL_FROM_NAME="${APP_NAME}" **
+ - **MAIL_MAILER=smtp**
+ - **MAIL_HOST=smtp.gmail.com**
+ - **MAIL_PORT=587**
+ - **MAIL_USERNAME="your gamil "**
+ - **MAIL_PASSWORD="App passwords=> which you have create via your gamil account**
+ - **MAIL_ENCRYPTION=tls**
+ - **MAIL_FROM_ADDRESS="email address**
+ - **MAIL_FROM_NAME="${APP_NAME}"**
 
 ## how to iniat the system
 
