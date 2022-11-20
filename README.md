@@ -10,8 +10,8 @@
  - **MAIL_MAILER=smtp**
  - **MAIL_HOST=smtp.gmail.com**
  - **MAIL_PORT=587**
- - **MAIL_USERNAME="your gamil "**
- - **MAIL_PASSWORD="App passwords=> which you have create via your gamil account**
+ - **MAIL_USERNAME="your gmail "**
+ - **MAIL_PASSWORD="App passwords=> which you have create via your gmail account**
  - **MAIL_ENCRYPTION=tls**
  - **MAIL_FROM_ADDRESS="email address**
  - **MAIL_FROM_NAME="${APP_NAME}"**
