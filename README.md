@@ -4,7 +4,7 @@
  also this project lunched successfuly at PDC department of Kabul Education Universtiy
 
 ## How To Up And Run PDC
-
+ - after clone this project fist run composer install and npm install
  - first configure the env file credentials like database name, database username database password
  - second for sending e-mail set the following keys in env file like this
  - **MAIL_MAILER=smtp**
